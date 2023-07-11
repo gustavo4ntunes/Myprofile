@@ -1,4 +1,4 @@
-<h1 align="center"> Portifólio de links </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Projeto desenvolvido durante o curso gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
