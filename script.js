@@ -17,7 +17,7 @@ function toggleMode(){
    //substituir a imagem
     if(html.classList.contains("light")) {
         //se tiver light mode, adicionar aimagem light
-        img.setAttribute("src", "./assets/assets/avatar-light.png")
+        img.setAttribute("src", "./assets/assets")
         img.setAttribute("alt", "foto Mayk Brito, com oculos escuros, roupas pretas e fundo colorido roxo e azul")
     }
     else {
