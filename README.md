@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Projeto desenvolvido durante o curso gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido durante o curso gratuito, promovido pela Rocketseat para aprendizagem de tecnologias web.
 </p>
 
 <p align="center">
@@ -18,29 +18,30 @@ Projeto desenvolvido durante o curso gratuito, promovido pela Rocketseat para en
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto desenvolvido durante um dos cursos da Rocket Seat" src=".github/preview.jpg" width="100%">
 </p>
 
-## ?? Tecnologias
+## ??Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## ?? Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O DevLinks é um projeto de uma página web onde contém as redes sociais e o portfólio do desenvolvedor.
 
 ## ?? Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/tI5ECs6wCucqfXYL0VhjHU/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=DfbNjPkhRQQIFA9C-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## ?? Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ? by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ?? by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
