@@ -14,7 +14,7 @@
     --switch-bg-url: url(./assets/assets/moon-stars.svg);
     --logo-github: url(./assets/assets/logo-github-dark.svg);
     --logo-instagram: url(./assets/assets/instagram-dark.svg);
-    --logo-youtube: url(./assets/assets/youtube-dark.svg);
+    --logo-whatsapp: url(./assets/assets/logo-whatsapp.svg);
     --logo-linkedin: url(./assets/assets/linkedin-dark.svg);
 }
 
@@ -28,7 +28,7 @@
     --switch-bg-url: url(./assets/assets/sun.svg);
     --logo-github: url(./assets/assets/logo-github-light.svg);
     --logo-instagram: url(./assets/assets/instagram-light.svg);
-    --logo-youtube: url(./assets/assets/youtube-light.svg);
+    --logo-whatsapp: url(./assets/assets/logo-whatsapp-light.svg);
     --logo-linkedin: url(./assets/assets/logo-linkedin.svg);
 }
 
@@ -142,11 +142,11 @@ ul{
     background: var(--logo-instagram);
 }
 
-#youtube{
+#whatsapp{
     border: 0;
     width: 24px;
     height: 24px;
-    background: var(--logo-youtube);
+    background: var(--logo-whatsapp);
 }
 
 #linkedin{
