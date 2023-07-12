@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso gratuito, promovido pela Rocketseat para en
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licenÃ§a">LicenÃ§a</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Projeto desenvolvido durante o curso gratuito, promovido pela Rocketseat para en
   <img alt="Projeto desenvolvido durante um dos cursos da Rocket Seat" src=".github/preview.jpg" width="100%">
 </p>
 
-## ??Tecnologias
+## ğŸš€ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,18 +30,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## ?? Projeto
+## ğŸ’» Projeto
 
-O DevLinks é um projeto de uma página web onde contém as redes sociais e o portfólio do desenvolvedor.
+O DevLinks Ã© um projeto de uma pÃ¡gina web onde contÃ©m as redes sociais e o portfÃ³lio do desenvolvedor.
 
-## ?? Layout
+## ğŸ”– Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/tI5ECs6wCucqfXYL0VhjHU/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=DfbNjPkhRQQIFA9C-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+VocÃª pode visualizar o layout do projeto atravÃ©s [DESSE LINK](<https://www.figma.com/file/tI5ECs6wCucqfXYL0VhjHU/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=DfbNjPkhRQQIFA9C-0>). Ã‰ necessÃ¡rio ter conta no [Figma](https://figma.com) para acessÃ¡-lo.
 
-## ?? Licença
+## ğŸ“ LicenÃ§a
 
-Esse projeto está sob a licença MIT.
+Esse projeto estÃ¡ sob a licenÃ§a MIT.
 
 ---
 
-Feito com ?? by Rocketseat ?? [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ğŸ’œ by Rocketseat ğŸ‘‹ [Participe da nossa comunidade!](https://discord.gg/rocketseat)
